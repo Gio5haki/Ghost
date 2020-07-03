@@ -1,0 +1,13 @@
+#ghost {
+  visibility: hidden;
+}
+
+.fade-in {
+  animation: fadeIn;
+  transition: ease 2s;
+  -webkit-animation: fadeIn 10s;
+  -moz-animation: fadeIn 10s;
+  -o-animation: fadeIn 10s;
+  -ms-animation: fadeIn 10s;
+  background: #000000;
+}
